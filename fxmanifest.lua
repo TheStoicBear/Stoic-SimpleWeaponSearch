@@ -10,8 +10,7 @@ lua54 'yes'
 -- Specify shared scripts
 shared_scripts {
     'config.lua',
-    '@ox_lib/init.lua',
-    '@ND_Core/init.lua'
+    '@ox_lib/init.lua'
 }
 
 -- Specify server scripts
