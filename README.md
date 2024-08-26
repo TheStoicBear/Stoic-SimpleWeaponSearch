@@ -20,7 +20,7 @@ Before installing, ensure your FiveM server has the following:
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/your-github-username/Stoic-SimpleWeaponSearch.git
+   git clone https://github.com/TheStoicBear/Stoic-SimpleWeaponSearch.git
    ```
 2. **Copy to your resources directory**
 
